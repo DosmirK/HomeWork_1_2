@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        String severalWords;
         // 1: Вывести приглашение ввести имя.
         System.out.println("Введите ваше имя: ");
 
